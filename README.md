@@ -1,4 +1,4 @@
-# SahithyaPappula-DataAnalyst-Internship-Portfolio# Sahithya Pappula – Data Analytics Internship Portfolio
+# Sahithya Pappula – Data Analytics Internship Portfolio
 
 ## 👋 About Me
 Hi, I'm Sahithya Pappula, a B.Tech AIML student passionate about Data Analytics, Python, SQL, Machine Learning, and Data Visualization.
